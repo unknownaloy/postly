@@ -52,5 +52,5 @@ flutter test
 
 This tests the **custom_function**. Path: lib/utils/custom_function.dart to validate that the user's points displays the appropriate metric badge title
 
-
+**Download and Install Android APK**
 [Download Postly App](https://github.com/unknownaloy/postly/raw/Ellis/apk/postly.apk)
